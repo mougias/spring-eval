@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-eval-tomcat
+
+server:
+ tomcat:
+  max-connections: 5
